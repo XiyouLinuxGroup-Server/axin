@@ -1,7 +1,7 @@
 # axin's repository:
 recording the process of my learning.
 
-#***学习计划***
+#**学习计划**
 
 日期 | 任务
 ---- | -----
